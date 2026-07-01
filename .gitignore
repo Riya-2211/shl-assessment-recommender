@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+test_api.py
+data/sample_conversations.zip
+data/sample_conversations/
